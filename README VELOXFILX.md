@@ -24,3 +24,7 @@ Foi adicionado um novo thema já existentes no site da drupal, para testar novos 
 7- passo(7º commit)
 
 Para essa etapa foi criado um subthema a partir de um subthema já existente no drupal que foi o bartik, nessa etapa foi criado um subthema e adicionado como padrão no nosso site, assim como algumas mudanças no estilo do conteúdo.
+
+8- passo(8º commit)
+
+Foi exportado o arquivo sql do banco para a raiz do projeto para que possa ser avaliado.
